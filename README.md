@@ -1,4 +1,4 @@
-# Assessment: JavaScript and Webdrvierio using cucumber framework
+# Assessment: JavaScript and WebdriverIO using cucumber framework
 Easyfundraising test framework
 
 ## Pre-requisite Steps
